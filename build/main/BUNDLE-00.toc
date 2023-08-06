@@ -1,0 +1,3 @@
+([('main',
+   '/Users/michaelgruen/Desktop/Virtual_Mixologist/dist/main',
+   'EXECUTABLE')],)
